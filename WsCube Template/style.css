@@ -1,0 +1,210 @@
+.logo img{
+    width: 150px;
+}
+.Watsappbtn{
+    padding: 10px 18px;
+    border: 1px solid rgb(152, 231, 152);
+    color: rgb(152, 231, 152);
+}
+.Watsappbtn:hover{
+    border: 1px solid rgb(152, 231, 152);
+}
+.Callbtn{
+    padding: 10px 18px;
+    background: linear-gradient(to right,rgb(107, 107, 218),rgb(10, 10, 220));
+    color: white;
+}
+.bannercontent h1{
+    font-size: 42px;
+    font-weight: 700;
+}
+.bannercontent h1 span{
+    color: rgb(10, 10, 200);
+}
+.bannercontent p{
+    font-size: 20px;
+}
+.bannercontent ul{
+    font-size: 20px;
+}
+.bannercontent ul li i{
+    color: rgb(10, 10, 200);
+}
+.Bookbtn{
+    width: 50%;
+     padding: 10px 18px;
+    background: linear-gradient(to right,rgb(107, 107, 218),rgb(10, 10, 220));
+}
+.Downloadbtn{
+    width: 50%;
+    padding: 10px 18px;
+    background-color: rgb(227, 224, 224);
+    color: black;
+}
+.Downloadbtn:hover{
+    border: 1px solid white;
+     background-color: rgb(227, 224, 224);
+}
+.Bannerform{
+    padding: 40px;
+    border-radius: 10px;
+}
+.Bannerform h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.Registerbtn{
+    width: 100%;
+    background: linear-gradient(to right,rgb(107, 107, 218),rgb(10, 10, 220));
+}
+.counterdiv h3{
+    color: rgb(10, 10, 200);
+}
+.Highlights-div h1{
+    font-size: 45x;
+    font-weight: 700;
+}
+.innerhihglights-div img{
+    width: 80px;
+}
+.innerhihglights-div h4{
+    font-size: 20px;
+}
+.Digital-div h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.innerdigi-div img{
+    width: 80px;
+}
+.Certificate-heading-div h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.Certificate-div img{
+    width: 80px;
+}
+.Certificate-div h4{
+    font-size: 18px;
+    font-weight: 500;
+}
+.img-div img{
+    width: 100%;
+}
+.marketing-div h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.ul-list li{
+    line-height: 35px;
+}
+.ul-list li i{
+    color: rgb(10, 10, 200);
+}
+.nav-pills .nav-link, .nav-pills .show>.nav-link{
+    color: black;
+}
+.nav-div .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: rgb(244, 243, 242);
+    color: black;
+    font-weight: 500;
+    border-bottom: 2px solid black;
+    border-radius: 0;
+} 
+.Download-btn{
+   background: linear-gradient(to right,rgb(107, 107, 218),rgb(10, 10, 220));
+    padding: 10px 35px;
+    
+}
+.Download-btn:hover{
+    background-color:  rgb(80, 80, 242);
+}
+.learn-div h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.learn-img-div img{
+    width: 80px;
+}
+.Book-btn{
+   background: linear-gradient(to right,rgb(107, 107, 218),rgb(10, 10, 220));
+    padding: 10px 35px;
+    
+}
+.Book-btn:hover{
+    background-color:  rgb(80, 80, 242);
+}
+.Studentheading-div h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.manimg-div img{
+    width: 60px;
+}
+
+.man-content-div h4{
+    font-size: 15px;
+}
+.man-content-div span{
+    font-size: 13px;
+}
+.FAQs-heading-div h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.accordion-button::after{
+    background-image: none !important;
+    content: '+';
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 1;
+}
+.accordion-button:not(.collapsed)::after{
+    background-image: none !important;
+    content: '-';
+    transform: none;
+}
+.accordion-button:not(.collapsed){
+    background-color: white !important;
+}
+.accordion-item{
+    margin-bottom: 30px;
+    border: 1px solid rgb(190, 190, 170) !important;
+
+} 
+.FreeCourse-div{
+    background: linear-gradient(to right,rgb(107, 107, 218),rgb(10, 10, 220));
+    color: white;
+}
+.FreeCourse-div h1{
+    font-size: 45px;
+    font-weight: 700;
+
+}
+.FreeCourse-div button{
+    padding: 8px 30px;
+    background-color: rgb(227, 225, 225);
+}
+.FreeCourse-div button:hover{
+    background-color: rgb(227, 225, 225);
+}
+.hairing-div h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+.footer-row-div{
+    background-color: rgb(30, 30, 65);
+}
+.Footer-div img{
+    width: 150px;
+    margin-bottom: 10px;
+}
+.Footer-div p{
+    color: white;
+}
+.Rights-div {
+    border-top: 2px solid beige;
+}
+.Rights-div span{
+    border-bottom: 2px solid beige;
+}

@@ -1,0 +1,39 @@
+@media only screen and (min-width:200px) and (max-width:576px) {
+    .btnouter{
+        position: fixed;
+        bottom: 0;
+        margin: 12px;
+        width: 100%;
+        justify-content: center !important;
+        left: 0;
+        background-color: white;
+}
+.bannercontent h1{
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}
+.bannercontent br{
+    display: none;
+}
+.bannerbtn{
+    flex-direction: column;
+}
+.Bookbtn{
+    width: 100%;
+}
+.Downloadbtn{
+    width: 100%;
+}
+}
+@media only screen and (min-width:576px) and (max-width:992px) {
+    .btnouter{
+        position: fixed;
+        bottom: 0;
+        margin: 12px;
+        width: 100%;
+        justify-content: center !important;
+        left: 0;
+        background-color: white;
+}
+}
